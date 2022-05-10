@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=knaackbuilt)](https://github.com/knaackbuilt)
-
+[(https://github-readme-stats.vercel.app/api?username=knaackbuilt&count_private=true&theme=tokyonight)]
+[(https://github-readme-stats.vercel.app/api/top-langs/?username=knaackbuilt&langs_count=8)]
 <!--
 **knaackbuilt/knaackbuilt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
