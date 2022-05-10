@@ -2,7 +2,7 @@
 
 - I'm most often a **front-of-the-front-end** developer. No idea what that means? **[Read this cool article by Brad Frost](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)**
 
-- I like the convience and speed of **utility-first css** because I have no idea what class="secondary__components--block-modifier_next-thing2" class that you wrote is either. It's all nonsense just pick what is simplest for the project.
+- I like the convience and speed of **utility-first css** because I have no idea what `class="secondary__components--block-modifier_next-thing2"` class that you wrote is either. It's all nonsense just pick what is simplest for the project.
 
 - I've written a ton of traditional css and sass too. It works better sometimes given the constraints of the project or system you are working in.
 
