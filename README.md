@@ -14,13 +14,13 @@
 
 In the traditional sense, I'm a front-end developer. That means a lot these days so I'll clarify further by saying that if you manage a database, it's not the front-end. If you write everything in python or c++ or php it's not really the front-end. Everything has bled into "front-end" to the point that people call themselves front-end developers and then proceed to list 51 backend languages they work with most often. 
 
-If your job ad says "Front-End Developer" and then lists rust or node as the top langauge you need: it's not a front-end job. Congrats you need some other developer. Stop calling it all front-end.  
-
 I can write these by hand: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) & ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 I use stackoverflow for: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) & ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Templating languages are cool and I work with these a lot: <img src="https://img.shields.io/badge/template-nunjucks-brightgreen" alt="nunjucks template language" /> & <img src="https://img.shields.io/badge/template-twig-green" alt="twig template language" /> 
+I use these sometimes too: ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) , ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) , ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+
+Why would you host with anything besides: ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)?
 
 <section style="display: flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=knaackbuilt&count_private=true" alt="Github Commit stats" />
