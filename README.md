@@ -10,6 +10,8 @@
 
 - Accessibile development is usable development. Build everything with accessibility first!
 
+- I almost always use github desktop because it's 168,000% easier than git from the command line. Don't @ me. 
+
 In the traditional sense, I'm a front-end developer. That means a lot these days so I'll clarify further by saying that if you manage a database, it's not the front-end. If you write everything in python or c++ or php it's not really the front-end. Everything has bled into "front-end" to the point that people call themselves front-end developers and then proceed to list 51 backend languages they work with most often.
 
 I can write these by hand: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) & ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
