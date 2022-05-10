@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[(https://github-readme-stats.vercel.app/api?username=knaackbuilt&count_private=true&theme=tokyonight)]
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=knaackbuilt&langs_count=8)]
+<img src="https://github-readme-stats.vercel.app/api?username=knaackbuilt&count_private=true&theme=tokyonight" alt="Github Commit stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaackbuilt&langs_count=8" alt="top languages used" />
+
 <!--
 **knaackbuilt/knaackbuilt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
