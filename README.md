@@ -1,4 +1,4 @@
-### Hello ~~world~~ GitHub.
+### Hello!
 
 - I'm most often a **front-of-the-front-end** developer. No idea what that means? **[Read this cool article by Brad Frost](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)**
 
