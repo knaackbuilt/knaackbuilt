@@ -21,3 +21,5 @@ I use stackoverflow for: ![JavaScript](https://img.shields.io/badge/javascript-%
 I use these sometimes too: ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) , ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) , ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white), AlpineJS
 
 Why would you host with anything besides: ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)?
+
+I gave up on twitter. Now on mastodon at <a rel="me" href="https://mastodon.social/@knaackbuilt"> <strong>knaackbuilt</strong> </a>
