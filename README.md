@@ -2,11 +2,11 @@
 
 - I'm most often a **front-of-the-front-end** developer. No idea what that means? **[Read this article by Brad Frost](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)**
 
-- I like the convience and speed of **utility-first css** because I have no idea what `class="secondary__components--block-modifier_next-thing2"` class is either. It's all nonsense just pick what is simplest for the project.
+- I like the convience and speed of **utility-first css** because I have no idea what `class="secondary__components--block-modifier_next-thing2"` class is either. It's all nonsense just pick what is simplest and sustainable with the team you have.
 
-- I've written a ton of traditional css and sass too. It works better sometimes and can be cleaner and more organized for complex use cases.
+- I've written a ton of traditional css and sass too. It can be cleaner and more organized for complex use cases or just the needs of a particular stack or project. 
 
-- Websites aren't that hard. Stop making them hard. 
+- Websites aren't that hard. Stop making them hard. They can literally just be HTML + CSS + JS or heck, just HTML. It's ok.
 
 - Accessibile development is usable development. Seriously put accessibility first. 
 
