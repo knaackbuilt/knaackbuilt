@@ -1,4 +1,4 @@
-# Welcome to my github profile!
+# Pages should have an `<h1>` so here it is
 
 ## Some things that I am currently:
 - a front-end and accessibility focused web developer.
