@@ -1,25 +1,18 @@
-### Hello!
+# Welcome to my github profile!
 
-- I'm most often a **front-of-the-front-end** developer. No idea what that means? **[Read this article by Brad Frost](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)**
+## Some things that I am currently:
+- a front-end and accessibility focused web developer.
+- still fascinated with the power of html and that people can just *make* websites.
+- actively trying to build web things that promote equal access to information and services in Government.
+- still confused if SC 1.4.4 applies with text-only zoom or page zoom.
+- drinking coffee. 
 
-- I like the convience and speed of **utility-first css** because I have no idea what `class="secondary__components--block-modifier_next-thing2"` class is either. It's all nonsense just pick what is simplest and sustainable with the team you have.
+## Some web opinions:
+- I like to use github desktop because it's exactly 168,000% easier than git from the command line.
+- I like utility-based css, but I see the value in more traditional naming conventions if well-organized.
+- Everything should not be a `<div>`.
+- <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot. 
 
-- I've written a ton of traditional css and sass too. It can be cleaner and more organized for complex use cases or just the needs of a particular stack or project. 
-
-- Websites aren't that hard. Stop making them hard. They can literally just be HTML + CSS + JS or heck, just HTML. It's ok.
-
-- Accessibile development is usable development. Seriously put accessibility first. 
-
-- I almost always use github desktop because it's 168,000% easier than git from the command line. Don't @ me. 
-
-In the traditional sense, I'm a front-end developer. That means a lot these days so I'll clarify further by saying that if you manage a database, it's not the front-end. If you write everything in python or c++ or php it's not really the front-end. Everything has bled into "front-end" to the point that people call themselves front-end developers and then proceed to list 51 backend languages they work with most often. 
-
-I know these really well: ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) & ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-I use stackoverflow for: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) & ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-I use these sometimes too: ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) , ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) , ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white), AlpineJS
-
-Why would you host with anything besides: ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)?
-
-I gave up on twitter. Now on mastodon at <a rel="me" href="https://mastodon.social/@knaackbuilt"> <strong>knaackbuilt</strong> </a>
+All opinions here are my own. 
+Please leave twitter/X and don't support people who profit from hateful things. 
+Mastodon is pretty ok: <a rel="me" href="https://mastodon.social/@knaackbuilt"> <strong>knaackbuilt</strong> </a>
