@@ -1,4 +1,4 @@
-# Pages should have an `<h1>` so here it is
+# Pages should have at least one `<h1>`
 
 ## Some things that I am currently:
 - a front-end and accessibility focused web developer.
@@ -13,6 +13,4 @@
 - Everything should not be a `<div>`.
 - <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot. 
 
-All opinions here are my own. 
-Please leave twitter/X and don't support people who profit from hateful things. 
-Mastodon is pretty ok: <a rel="me" href="https://mastodon.social/@knaackbuilt"> <strong>knaackbuilt</strong> </a>
+All opinions here are my own, but please leave twitter/X and don't support people who profit from hateful things. 
