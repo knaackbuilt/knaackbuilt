@@ -12,6 +12,7 @@
 - I like utility-based css, but I see the value in more traditional naming conventions if well-organized.
 - Everything should not be a `<div>`.
 - Use semantic html elements instead of reinventing things browsers have done natively for you since 1996.
-- <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot. 
+- <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot.
+- Bring back Netscape Navigator.
 
 All opinions here are my own, but please leave twitter/X and don't support people who profit from hateful things. 
