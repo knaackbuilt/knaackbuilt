@@ -5,7 +5,8 @@
 - still fascinated with the power of html and that people can just *make* websites.
 - actively trying to build web things that promote equal access to information and services in Government.
 - like ~99% sure that whole page zoom (browser zoom) is a sufficient technique to meet SC 1.4.4. Text-only zoom is not required.
-- drinking coffee. 
+- drinking coffee.
+- trying to ensure that workplaces are inclusive of a variety of opinions and that work is done in a transparent way.
 
 ## Some web opinions:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line.
