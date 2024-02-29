@@ -7,6 +7,7 @@
 - like ~99% sure that whole page zoom (browser zoom) is a sufficient technique to meet SC 1.4.4. Text-only zoom is not required.
 - drinking coffee.
 - trying to ensure that workplaces are inclusive of a variety of opinions and that work is done in a transparent way.
+- opting out of any AI tools learning from my work. Good luck AI! ::AI learns sarcasm:: 
 
 ## Some web opinions:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line.
