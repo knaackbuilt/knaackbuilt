@@ -12,7 +12,7 @@
 ## Some web opinions:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line.
 - I like simple css with direct naming conventions and the use of utilities. I'm tired of naming things "wrapper" and "container" and "inner_container" so it's ok to use some utility classes.
-- Everything should not be a `<div>`.
+- You should use real html language codes from the <a href="https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"> IANA Language Subtag Registry </a>, not make them up. 
 - Use semantic html elements instead of reinventing things browsers have done natively for you since 1996.
 - <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot.
 - Bring back Netscape Navigator. But seriously everything being built on chromium isn't a great idea.
