@@ -2,6 +2,7 @@
 
 ## Some things that I am currently:
 - a front-end and accessibility focused web developer.
+- unapologetically pro-union. Check out <a href="https://www.techworkersunion-1010.org/"> Tech Workers Union Local 1010 </a>!
 - still fascinated with the power of html and that people can just *make* websites.
 - actively trying to build web things that promote equal access to information and services in Government.
 - like ~99% sure that whole page zoom (browser zoom) is a sufficient technique to meet SC 1.4.4. Text-only zoom is not required.
