@@ -1,9 +1,9 @@
 # Pages should have at least one `<h1>`
 
 ## Today I might be using:
-- Mid 2005 iBook, 1.5GB RAM, 1.33ghz PPC G4, OSX 10.5.8, with some funny stickers, missing the caps lock key, and an OEM original friggen ~220 month old battery with a million loadcycles that somehow still has 95% capacity left. Literally a tank.
-- Early 2001 iBook Dual USB, 512MB RAM, 500mhz PPC G3, OSX 10.4.11, with a broken cd drive and a heat cracked and worn exterior: "patina". 
-- Late 2003 iBook, 768MB RAM, 800mhz PPC G3, OS 9.2.2, absolutely immaculate and mint, how?
+- Mid 2005 iBook, 1.5GB RAM, 1.33ghz PPC G4, ATI Radeon 9550 32MB, OSX 10.5.8, with some funny stickers, missing the caps lock key, and an OEM original friggen ~220 month old battery with a million loadcycles that somehow still has 95% capacity left. Literally a tank.
+- Early 2001 iBook Dual USB, 320MB RAM, 500mhz PPC G3, ATI Rage Mobility 8MB, OSX 10.3.9 with classic, with a broken cd drive and a heat cracked and worn exterior: "patina". 
+- Early 2002 iBook, 640MB RAM, 700mhz PPC G3, ATI Radeon 7500 32MB, OS 10.4.11 with classic, absolutely immaculate and mint, how?
 - some whatever m1 macbook air that's super powerful and has a battery that lasts like a year and weighs one pound but is no fun. 
 
 ## I am currently:
