@@ -1,8 +1,8 @@
 # Pages should have at least one `<h1>`
 
 ## Today I might be using:
-- Mid 2005 iBook, 1.5GB RAM, 1.33ghz PPC G4, ATI Radeon 9550 32MB, OSX 10.5.8, with some funny stickers, missing the caps lock key, and an OEM original friggen ~220 month old battery with a million loadcycles that somehow still has 95% capacity left. Literally a tank.
-- Early 2001 iBook Dual USB, 320MB RAM, 500mhz PPC G3, ATI Rage Mobility 8MB, OSX 10.3.9 with classic, with a broken cd drive and a heat cracked and worn exterior: "patina". 
+- Mid 2005 iBook, 1.5GB RAM, 1.33ghz PPC G4, ATI Radeon 9550 32MB, OSX 10.5.8, with some funny stickers, missing the caps lock key, and an OEM original battery with a million loadcycles that somehow still has 95% capacity left. Literally a tank.
+- Early 2001 iBook Dual USB, 576MB RAM, 500mhz PPC G3, ATI Rage Mobility 8MB, OSX 10.4.11 with classic, with a broken cd drive and a heat cracked and worn exterior: "patina". 
 - Early 2002 iBook, 640MB RAM, 700mhz PPC G3, ATI Radeon 7500 32MB, OS 10.4.11 with classic, absolutely immaculate and mint, how?
 - some whatever m1 macbook air that's super powerful and has a battery that lasts like a year and weighs one pound but is no fun. 
 
@@ -20,7 +20,7 @@
 ## Opinions that are my own:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line.
 - I like simple css with direct naming conventions and the use of utilities. I'm tired of naming things "wrapper" and "container" and "inner_container" so it's ok to use some utility classes.
-- You should use real html language codes from the <a href="https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"> IANA Language Subtag Registry </a>, not make them up. 
+- You should use real html language codes from the <a href="https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"> IANA Language Subtag Registry</a>, not make them up. 
 - Use semantic html elements instead of reinventing things browsers have done natively for you since 1996.
 - <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot.
 - Bring back Netscape Navigator. But seriously everything being built on chromium isn't a great idea.
