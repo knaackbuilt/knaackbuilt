@@ -3,7 +3,6 @@
 ## Today I might be using:
 - Mid 2005 iBook, 1.5GB RAM, 1.33ghz PPC G4, ATI Radeon 9550 32MB, OSX 10.5.8, with some funny stickers, missing the caps lock key, and an OEM original battery with a million loadcycles that somehow still has 95% capacity left. Literally a tank.
 - Early 2001 iBook Dual USB, 576MB RAM, 500mhz PPC G3, ATI Rage Mobility 8MB, OSX 10.4.11 with classic, with a broken cd drive and a heat cracked and worn exterior: "patina". 
-- Early 2002 iBook, 640MB RAM, 700mhz PPC G3, ATI Radeon 7500 32MB, OS 10.4.11 with classic, absolutely immaculate and mint, how?
 - some whatever m1 macbook air that's super powerful and has a battery that lasts like a year and weighs one pound but is no fun. 
 
 ## I am currently:
@@ -25,4 +24,3 @@
 - <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot.
 - Bring back Netscape Navigator. But seriously everything being built on chromium isn't a great idea.
 - I want a text-only or reader-only version of the web please and thank you.
-
