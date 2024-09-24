@@ -2,7 +2,7 @@
 
 ## Today I might be using:
 - Mid 2005 iBook, 1.5GB RAM, 1.33ghz PPC G4, ATI Radeon 9550 32MB, OSX 10.5.8, with some funny stickers, missing the caps lock key, and an OEM original battery with a million loadcycles that somehow still has 95% capacity left.
-- Late 2004 iBook 14", 1.25GB RAM, 1.33ghz PPC G4, ATI Radeon 9200 32MB, OSX 10.5.8, with some weird glitchy problems stemming from it clearly being beat up over the years.  
+- 2008 FrankenBook - two different MacBook Core 2 Duo's that I had to combine into one. Screen from an 08 black macbook, body and board from an 08 white macbook. 2.1ghz Intel Core 2 Duo, 2GB RAM, Intel X3100 graphics, OSX 10.6.8. Another lucky battery that's 15 years old and has a ton of use and 91% capacity remaining. 
 - Early 2001 iBook Dual USB, 576MB RAM, 500mhz PPC G3, ATI Rage Mobility 8MB, OSX 10.4.11 with classic, with a broken cd drive and a heat cracked and worn exterior: "patina". 
 - some whatever m1 macbook air that's super powerful and has a battery that lasts like a year and weighs one pound but is no fun. 
 
