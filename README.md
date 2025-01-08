@@ -4,7 +4,10 @@
 - Mid 2004 14" iBook, 1.25GB RAM, 1.33ghz PPC G4, ATI Radeon 9200 32MB, OSX 10.5.8. Finally found a MINT condition replacement battery that has 100% original capacity. 
 - Mid 2005 iBook, 1.5GB RAM, 1.33ghz PPC G4, ATI Radeon 9550 32MB, OSX 10.5.8, with some funny stickers, missing the caps lock key, and an OEM battery with a million loadcycles that somehow still has 95% capacity left.
 - 2008 FrankenBook - two different MacBook Core 2 Duo's: Screen from an 08 black macbook, body and board from an 08 white macbook. 2.1ghz Intel Core 2 Duo, 2GB RAM, Intel X3100 graphics, OSX 10.6.8. 
-- some whatever 2020 m1 macbook air that's super powerful and has a battery that lasts like a year and weighs one pound but is less fun. 
+- some whatever 2020 m1 macbook air that's super powerful and has a battery that lasts like a year and weighs one pound but is less fun.
+
+## I am working on restoring:
+- iBook G3 14" 700mhz - One of the earlier models of 14-inch iBook. Worse for the wear, somehow had a white paste spilled under the keyboard?, and unfortunately has no real functional battery. Contact me if you have a m8416 or a1080 14.4v battery you'd like to sell that has some capacity left.   
 
 ## I am currently:
 - a front-end and accessibility focused web developer.
