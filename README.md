@@ -1,6 +1,6 @@
 # Pages should have at least one `<h1>`
 
-## Federate, decentralize, and resist
+## Decentralize and resist
 - quit all major platforms in favor of fediverse apps such as mastodon or pixelfed.
 - even github is not immune, start backing up code in places that are secure and offline.
 - host your own stuff. Servers are awesome actually.
