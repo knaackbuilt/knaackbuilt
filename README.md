@@ -2,7 +2,7 @@
 
 ## Decentralize and resist
 - quit all major platforms in favor of fediverse apps such as mastodon or pixelfed.
-- even github is not immune, start backing up code in places that are secure and offline.
+- even github is not immune, start backing up code in places that are secure and offline. See <a href="https://codeberg.org/"> Codeberg </a> for an EU based git hosting alternative.
 - host your own stuff. Servers are awesome actually.
 - Can't host your own? Pick a hosting provider in the EU like <a href="https://uberspace.de/"> uberspace </a> or 1984 in Iceland
 - pick some battles and drop using services that appear free. You and your actions are the product.
