@@ -1,13 +1,14 @@
-# Pages should have at least one `<h1>`
+# Use your brain please
 
 ## Decentralize and resist
-- quit all major platforms in favor of fediverse apps such as mastodon or pixelfed.
+- quit all major platforms in favor of the fediverse
 - even github is not immune, start backing up code in places that are secure and offline. See <a href="https://codeberg.org/"> Codeberg </a> for an EU based git hosting alternative.
 - host your own stuff. Servers are awesome actually.
 - Can't host your own? Pick a hosting provider in the EU like <a href="https://uberspace.de/"> uberspace </a> or 1984 in Iceland
 - pick some battles and drop using services that appear free. You and your actions are the product.
 - check on your friends.
 - use rss.
+- abolish ICE. 
 
 ## I am currently:
 - unapologetically pro-union. Check out <a href="https://www.techworkersunion-1010.org/"> Tech Workers Union Local 1010 </a>!
@@ -17,6 +18,7 @@
 - like ~99% sure that whole page zoom (browser zoom) is a sufficient technique to meet SC 1.4.4. Text-only zoom is not required.
 - drinking coffee.
 - trying to ensure that workplaces are inclusive of a variety of opinions and that work is done in a transparent way.
+- restoring a bunch of PowerPC macs
 
 ## Opinions that are my own:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line.
