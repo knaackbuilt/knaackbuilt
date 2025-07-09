@@ -22,7 +22,7 @@
 ## I commit regularly from:
 1. **2020 MacBook Air M1**: An amazing laptop that after almost 5 years I can still work 8 hours on battery and it never slows for a second.
 2. **2008 FrankenBook Intel Core 2 Duo**: Three 2007/08 white & black MacBooks frankenstined into one very useful machine. OSX 10.6.8.
-3. **2005 PowerBook G4 17-inch: amazing behemoth of a laptop. OSX 10.4.11.
+3. **2005 PowerBook G4 17-inch**: amazing behemoth of a laptop. OSX 10.4.11.
 
 ## Opinions:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line.
