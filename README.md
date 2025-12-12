@@ -1,14 +1,6 @@
-# Please apply logic and use critical thinking
+# Working on Building a More Equitable Tech World
 
-## Decentralize and resist
-- quit all major platforms in favor of the fediverse
-- even github is not immune, start backing up code in places that are secure and offline. See <a href="https://codeberg.org/"> Codeberg </a> for an EU based git hosting alternative.
-- host your own stuff. Servers are awesome actually.
-- Can't host your own? Pick a hosting provider in the EU like <a href="https://uberspace.de/"> uberspace </a> or 1984 in Iceland
-- pick some battles and drop using services that appear free. You and your actions are the product.
-- check on your friends.
-- use rss.
-- abolish ICE. 
+I want to build technologies that humans actually find useful. I like solving technical problems in simple and creative ways and prefer to use straighforward HTML, CSS, and JS when possible. I am neurotypical and do not see the world the way you do: let's talk about what that means so we understand each other. 
 
 ## I am currently:
 - unapologetically pro-union. Check out <a href="https://www.techworkersunion-1010.org/"> Tech Workers Union Local 1010 </a>!
@@ -17,11 +9,16 @@
 - like ~99% sure that whole page zoom (browser zoom) is a sufficient technique to meet SC 1.4.4. Text-only zoom is not required.
 - drinking coffee.
 - trying to ensure that workplaces are inclusive of a variety of opinions and that work is done in a transparent way.
+- trying to be a good, kind, respectful leader.
+- evolve constantly as a technologist.
+- getting an Autism diagnosis.
 
 ## I commit regularly from:
-1. **2020 MacBook Air M1**: An amazing laptop that after almost 5 years I can still work 8 hours on battery and it never slows for a second.
-2. **2008 FrankenBook Intel Core 2 Duo**: Three 2007/08 white & black MacBooks frankenstined into one very useful machine. OSX 10.6.8.
-3. **2005 PowerBook G4 17-inch**: amazing behemoth of a laptop. OSX 10.4.11.
+1. **2020 MacBook Air M1**: (work) An amazing laptop that after almost 5 years I can still work 8 hours on battery and it never slows for a second.
+2. **2020 MacBook Air M1**: (personal) Ditto above. Used with a water damaged screen. This computer was practically pennies (considering it can run tier 1 OS in 2025) used and after several attempts at replacing the screen I found one that was partially water damaged for cheap. New screens are double the price of the entire machine. I can now replace an m1 air screen in 15 minutes flat, AMA.
+3. **2009 Macbook**: This is ergonomically one of my favorite machines ever. It's the right size and weight for your lap, with a keyboard that feels real and mechanical. OSX 10.10 - everything felt really modern when this OS was new. 
+4. **2008 FrankenBook Intel Core 2 Duo**: Three 2007/08 white & black MacBooks frankenstined into one very useful machine. OSX 10.6.8.
+5. **2005 PowerBook G4 17-inch**: amazing behemoth of a laptop. This has my favorite graphics card of all time: ATI Radeon 9700 128MB. Wish I had this computer in 2005. OSX 10.4.11.
 
 ## Opinions:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line.
@@ -31,3 +28,4 @@
 - <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot.
 - Bring back Netscape Navigator. But seriously everything being built on chromium isn't a great idea.
 - I want a text-only or reader-only version of the web please and thank you.
+- Today is the first day of the rest of your life. Live it. 
