@@ -1,6 +1,6 @@
 # Working on Building a More Equitable Tech World
 
-I want to build technologies that humans actually find useful. I like solving technical problems in simple and creative ways and prefer to use straighforward HTML, CSS, and JS when possible. I am neurotypical and do not see the world the way you do: let's talk about what that means so we understand each other. 
+I want to build technologies that humans actually find useful. I like solving technical problems in simple and creative ways and prefer to use straighforward HTML, CSS, and JS when possible. I am neurodivergent and do not see the world the way you do: let's talk about what that means so we understand each other. 
 
 ## I am currently:
 - unapologetically pro-union. Check out <a href="https://www.techworkersunion-1010.org/"> Tech Workers Union Local 1010 </a>!
