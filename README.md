@@ -28,4 +28,25 @@ I want to build technologies that humans actually find useful. I like solving te
 - <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot.
 - Bring back Netscape Navigator. But seriously everything being built on chromium isn't a great idea.
 - I want a text-only or reader-only version of the web please and thank you.
-- Today is the first day of the rest of your life. Live it. 
+- Today is the first day of the rest of your life. Live it.
+
+## Languages/frameworks/tools/concepts/libraries I regularly work in or have professional familiarity with:
+- **The big three core web technologies: HTML, CSS, and Javascript** in all their glory and frustration (lots of expertise and experiences that I'd like to forget like Internet Explorer...)
+- WCAG & Accessibility Engineering (lots of expertise!)
+- 11ty (static site generator) and Jamstack in general
+- Nunjucks & Twig (and by default anything jinja or django inspired or syntax related)
+- Dozens of other templating languages including Handlebars, Mustache, HAML, Pug, Liquid, Markdown, etc. 
+- Tailwind (controversial, but there are some good uses of utility based css for rapid development and simple, direct work)
+- AlpineJS (I use this in place of jQuery - it's much smaller and crazy powerful considering it can be templated directly into the DOM)
+- Bootstrap (does anyone build with this anymore? Like 60% of the internet was based on it for a while so I can dive right back into ~2015 any day)
+- Svelte (no virtual dom needed!)
+- Reluctantly React familiar
+- Drupal and other monolithic php based CMS's
+- Everything git and github ecosystem related
+- AWS, Netlify, and other hosting and cloud providers
+- DevOps in general including the entire software development lifecycle (See products I have directed hundreds of code pushes for at ny.gov and governor.ny.gov)
+- Technical crisis management and rapid development and problem solving under extreme or unique conditions
+- Building and adapting technical tools in creative ways, often needing to learn other languages and methods rapidly to deliver on features
+- Python and AI based conceptual coding and framework management (models, local and remote infrastructure for generations). Not a daily driver concept though.
+- UNIX, Shell, Bash, various config type scripting and DevOptimization concepts
+- Every Macintosh computer built between 2001 and 2009 I can restore and make awesome. What a golden age of computing - sort of
