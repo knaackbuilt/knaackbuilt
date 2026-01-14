@@ -17,7 +17,7 @@ I want to build technologies that humans actually find useful. I like solving te
 1. **2020 MacBook Air M1**: (work) An amazing laptop that after almost 5 years I can still work 8 hours on battery and it never slows for a second.
 2. **2020 MacBook Air M1**: (personal) Ditto above. Used with a water damaged screen. This computer was practically pennies (considering it can run tier 1 OS in 2025) used and after several attempts at replacing the screen I found one that was partially water damaged for cheap. New screens are double the price of the entire machine. I can now replace an m1 air screen in 15 minutes flat, AMA.
 3. **2009 Macbook**: This is ergonomically one of my favorite machines ever. It's the right size and weight for your lap, with a keyboard that feels real and mechanical. OSX 10.10 - everything felt really modern when this OS was new. 
-4. **2008 FrankenBook Intel Core 2 Duo**: Three 2007/08 white & black MacBooks frankenstined into one very useful machine. OSX 10.6.8.
+4. **2008 FrankenBook Intel Core 2 Duo**: The screen of a Black 2007 MacBook and the body of a 2008 White MacBook Frankensteined together. Ubuntu 16.04 LTS. I hadn't really checked in on ubuntu in a while: turns out it's great. This ~18 year old laptop now has the latest release of VSCode. Insane. Linux FTW.
 5. **2005 PowerBook G4 17-inch**: amazing behemoth of a laptop. This has my favorite graphics card of all time: ATI Radeon 9700 128MB. Wish I had this computer in 2005. OSX 10.4.11.
 
 ## Opinions:
