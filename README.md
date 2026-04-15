@@ -15,10 +15,9 @@ I want to build technologies that humans actually find useful. I like solving te
 
 ## I commit regularly from:
 1. **2020 MacBook Air M1**: (work) An amazing laptop that after almost 5 years I can still work 8 hours on battery and it never slows for a second.
-2. **2020 MacBook Air M1**: (personal) Ditto above. Used with a water damaged screen. This computer was practically pennies (considering it can run tier 1 OS in 2025) used and after several attempts at replacing the screen I found one that was partially water damaged for cheap. New screens are double the price of the entire machine. I can now replace an m1 air screen in 15 minutes flat, AMA.
+2. **2002 Power Macintosh G4 MDD** NEW addition to the fleet. Dual 1GHZ G4's. ATI Radeon 900 Pro.
 3. **2009 Macbook**: This is ergonomically one of my favorite machines ever. It's the right size and weight for your lap, with a keyboard that feels real and mechanical. OSX 10.10 - everything felt really modern when this OS was new. 
-4. **2005 PowerBook G4 17-inch**: amazing behemoth of a laptop. This has my favorite graphics card of all time: ATI Radeon 9700 128MB. Wish I had this computer in 2005. OSX 10.4.11.
-5. **2001 iBook G3 Dual USB**: Named this one "It works on my machine ::shrug::" 500mhz G3, Dual USB, OSX 10.4.11, 576mb RAM. Broken cd drive duct taped shut, and the screen is burned in or water damaged. It's like an old patina on a car. 
+4. **2005 PowerBook G4 17-inch**: amazing behemoth of a laptop. 1.67GHZ G4, 2GB RAM. This has my favorite graphics card of all time: ATI Radeon 9700 128MB. Wish I had this computer in 2005. OSX 10.4.11.
 
 ## Opinions:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line.
