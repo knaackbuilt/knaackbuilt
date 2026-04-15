@@ -15,7 +15,7 @@ I want to build technologies that humans actually find useful. I like solving te
 
 ## I commit regularly from:
 1. **2020 MacBook Air M1**: (work) An amazing laptop that after almost 5 years I can still work 8 hours on battery and it never slows for a second.
-2. **2002 Power Macintosh G4 MDD** NEW addition to the fleet. Dual 1GHZ G4's. ATI Radeon 900 Pro.
+2. **2002 Power Macintosh G4 MDD**: NEW addition to the fleet. Dual 1GHZ G4's. ATI Radeon 9000 Pro.
 3. **2009 Macbook**: This is ergonomically one of my favorite machines ever. It's the right size and weight for your lap, with a keyboard that feels real and mechanical. OSX 10.10 - everything felt really modern when this OS was new. 
 4. **2005 PowerBook G4 17-inch**: amazing behemoth of a laptop. 1.67GHZ G4, 2GB RAM. This has my favorite graphics card of all time: ATI Radeon 9700 128MB. Wish I had this computer in 2005. OSX 10.4.11.
 
