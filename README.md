@@ -18,6 +18,7 @@ I want to build technologies that humans actually find useful. I like solving te
 2. **2002 Power Macintosh G4 MDD**: NEW addition to the fleet. This thing feels like a space age desktop should. Loud fans, totally uselessly sleek and artsy designed case, cramped interior with lots of room to expand but nothing to put there. Dual 1GHZ G4's. ATI Radeon 9000 Pro. 1.75GB RAM. OSX 10.5.8. 
 3. **2009 Macbook**: This is ergonomically one of my favorite machines ever. It's the right size and weight for your lap, with a keyboard that feels real and mechanical. OSX 10.10 - everything felt really modern when this OS was new. 
 4. **2005 PowerBook G4 17-inch**: amazing behemoth of a laptop. 1.67GHZ G4, 2GB RAM. This has my favorite graphics card of all time: ATI Radeon 9700 128MB. Wish I had this computer in 2005. OSX 10.4.11.
+5. **2006 MacBook Pro**: Ok - I never got the appeal of this model series until I had a PowerBook. Very nice keyboard. I'm trying to get linux on this thing but the stupid 32-bit uefi loader is a real problem. 
 
 ## Opinions:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line.
