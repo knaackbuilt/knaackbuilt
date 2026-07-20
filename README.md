@@ -9,9 +9,10 @@ I want to build technologies that humans actually find useful. I like solving te
 - like ~99% sure that whole page zoom (browser zoom) is a sufficient technique to meet SC 1.4.4. Text-only zoom is not required.
 - drinking coffee.
 - trying to ensure that workplaces are inclusive of a variety of opinions and that work is done in a transparent way.
-- trying to be a good, kind, respectful leader.
+- trying to be a good, kind, and respectful leader.
 - evolve constantly as a technologist.
 - getting an Autism diagnosis.
+- migrating personal machines to Ubuntu or another Linux distro because *gestures broadly at everything*
 
 ## I commit regularly from:
 1. **2020 MacBook Air M1**: (work) An amazing laptop that after almost 5 years I can still work 8 hours on battery and it never slows for a second.
@@ -21,20 +22,20 @@ I want to build technologies that humans actually find useful. I like solving te
 5. **2006 MacBook Pro**: Ok - I never got the appeal of this model series until I had a PowerBook. Very nice keyboard. I'm trying to get linux on this thing but the stupid 32-bit uefi loader is a real problem. 
 
 ## Opinions:
-- I like to use github desktop because it's exactly 168,000% easier than git from the command line.
+- I like to use github desktop because it's exactly 168,000% easier than git from the command line and I am a visual learner.
 - I like simple css with direct naming conventions and the use of utilities.
 - You should use real html language codes from the <a href="https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"> IANA Language Subtag Registry</a>, not make them up. 
 - Use semantic html elements instead of reinventing things browsers have done natively for you since 1996.
-- <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> is fantastic and I use it a lot.
+- <a href="https://www.11ty.dev/"> <strong>Eleventy (11ty)</strong> </a> *was* fantastic and I used it a lot. Now all we can do is fork older versions and hope that they stay useable. Sad to say.
 - Bring back Netscape Navigator. But seriously everything being built on chromium isn't a great idea.
 - I want a text-only or reader-only version of the web please and thank you.
 - Today is the first day of the rest of your life. Live it.
 
 ## Languages/frameworks/tools/concepts/libraries I regularly work in or have professional familiarity with:
-- **The big three core web technologies: HTML, CSS, and Javascript** in all their glory and frustration (lots of expertise and experiences that I'd like to forget like Internet Explorer...)
+- **The big three core web technologies: HTML, CSS, and Javascript** in all their glory and frustration (lots of expertise and experiences that I'd like to forget...)
 - WCAG & Accessibility Engineering (lots of expertise!)
 - 11ty (static site generator) and Jamstack in general
-- Nunjucks & Twig (and by default anything jinja or django inspired or syntax related)
+- Nunjucks & Twig (and by default anything jinja inspired or syntax related)
 - Dozens of other templating languages including Handlebars, Mustache, HAML, Pug, Liquid, Markdown, etc. 
 - Tailwind (controversial, but there are some good uses of utility based css for rapid development and simple, direct work)
 - AlpineJS (I use this in place of jQuery - it's much smaller and crazy powerful considering it can be templated directly into the DOM)
@@ -44,9 +45,9 @@ I want to build technologies that humans actually find useful. I like solving te
 - Drupal and other monolithic php based CMS's
 - Everything git and github ecosystem related
 - AWS, Netlify, and other hosting and cloud providers
-- DevOps in general including the entire software development lifecycle (See products I have directed hundreds of code pushes for at ny.gov and governor.ny.gov)
+- DevOps in general including the entire software development lifecycle (I have overseen hundreds of code pushes for ny.gov and governor.ny.gov)
 - Technical crisis management and rapid development and problem solving under extreme or unique conditions
 - Building and adapting technical tools in creative ways, often needing to learn other languages and methods rapidly to deliver on features
 - Python and AI based conceptual coding and framework management (models, local and remote infrastructure for generations). Not a daily driver concept though.
 - UNIX, Shell, Bash, various config type scripting and DevOptimization concepts
-- Every Macintosh computer built between 2001 and 2009 I can restore and make awesome. What a golden age of computing - sort of
+- Every Macintosh computer built between 2001 and 2009 I can restore and make awesome. 
