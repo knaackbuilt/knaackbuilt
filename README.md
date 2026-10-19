@@ -23,9 +23,9 @@ MacOS:
 4. **2005 PowerBook G4 17-inch**: amazing behemoth of a laptop. 1.67GHZ G4, 2GB RAM. This has my favorite graphics card of all time: ATI Radeon 9700 128MB. Wish I had this computer in 2005. OSX 10.4.11.
 
 Linux:
-1. **MacBook 2010:** this thing has been around the block. Finally useful with Ubuntu.
-2. **iMac 2015:** Lightning fast with modern Ubuntu, like a 30-inch screen is totally cool. 
-3. **2007/08 FrankenBook**
+1. **iMac 2015:** Lightning fast with modern Ubuntu and it has a 5k retina 27 inch screen. That's insane for up-cycling. Oh and 32GB ram never hurt.
+2. **iMac 2011:** Not as awesome as above, but 21.5 inch screen and an i5 make this totally still usable. 
+3. **2007/08 FrankenBook:** Stupid trackpad driver issues and lack of scroll tweaks make this one hard to use on a regular basis. 
 
 ## Opinions:
 - I like to use github desktop because it's exactly 168,000% easier than git from the command line and I am a visual learner.
